@@ -27,6 +27,8 @@ This is a game app where you can play the game while chatting with your friends.
      
      .on() listen to the events
      
+     ![Structure](https://github.com/Easyvipin/NextWord/blob/main/IMG_20201104_115906329.jpg)
+     
      We can use both of these functions on client side as well as on server-side.
      
      See example here.
